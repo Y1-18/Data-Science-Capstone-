@@ -26,20 +26,6 @@ Explore patterns and relationships between rocket features, mission parameters, 
 
 Build an analytical foundation for predictive modeling of Falcon 9 first-stage landings.
 
-💬 Project 2: Automated Customer Reviews Analysis
-
-This project explores the use of Natural Language Processing (NLP) and machine learning to automatically analyze large volumes of customer feedback. It aims to extract insights such as sentiment trends, common themes, and key features mentioned in reviews.
-
-Notebook File	Description	Focus Area
-Project_Automated Customers Reviews (2).ipynb	Processes, analyzes, and summarizes customer reviews using NLP and text mining techniques.	NLP / Text Analysis
-🧩 Possible Applications
-
-Sentiment classification (positive, negative, neutral)
-
-Topic modeling and feature extraction
-
-Automated summarization of user feedback
-
 ⚙️ Requirements and Installation
 🐍 Environment
 
